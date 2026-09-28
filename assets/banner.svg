@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Rustam Ali — AI Automation Engineer, Graphic Designer, Content Writer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0E1621"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glowAI" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="glowGD" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F778BA" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#F778BA" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="glowWC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#56D364" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#56D364" stop-opacity="0.02"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#161B22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)" opacity="0.65"/>
+
+  <circle cx="1040" cy="34" r="150" fill="#58A6FF" opacity="0.05"/>
+  <circle cx="150" cy="320" r="170" fill="#56D364" opacity="0.04"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="600" y="96" text-anchor="middle" fill="#39D353" font-size="14" font-weight="700" letter-spacing="7">HELLO, I&#8217;M</text>
+
+    <text x="600" y="172" text-anchor="middle" fill="#F0F6FC" font-size="74" font-weight="800" letter-spacing="1">Rustam Ali</text>
+
+    <rect x="500" y="188" width="200" height="2" fill="url(#rule)"/>
+
+    <text x="600" y="218" text-anchor="middle" fill="#8B949E" font-size="18" font-weight="500">AI Automation Engineer &#183; Graphic Designer &#183; Content Writer</text>
+
+    <line x1="420" y1="264" x2="450" y2="264" stroke="#30363D" stroke-width="2"/>
+    <line x1="750" y1="264" x2="780" y2="264" stroke="#30363D" stroke-width="2"/>
+
+    <rect x="120" y="232" width="300" height="64" rx="14" fill="url(#glowAI)" stroke="#58A6FF" stroke-opacity="0.45"/>
+    <circle cx="152" cy="264" r="6" fill="#58A6FF"/>
+    <text x="288" y="271" text-anchor="middle" fill="#C9D1D9" font-size="18" font-weight="700" letter-spacing="2">AI &amp; AUTOMATION</text>
+
+    <rect x="450" y="232" width="300" height="64" rx="14" fill="url(#glowGD)" stroke="#F778BA" stroke-opacity="0.45"/>
+    <circle cx="482" cy="264" r="6" fill="#F778BA"/>
+    <text x="618" y="271" text-anchor="middle" fill="#C9D1D9" font-size="18" font-weight="700" letter-spacing="2">GRAPHIC DESIGN</text>
+
+    <rect x="780" y="232" width="300" height="64" rx="14" fill="url(#glowWC)" stroke="#56D364" stroke-opacity="0.45"/>
+    <circle cx="812" cy="264" r="6" fill="#56D364"/>
+    <text x="948" y="271" text-anchor="middle" fill="#C9D1D9" font-size="18" font-weight="700" letter-spacing="2">WEB &amp; CONTENT</text>
+  </g>
+</svg>
