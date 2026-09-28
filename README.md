@@ -1,14 +1,18 @@
 <!--
   ============================================================
   RUSTAM ALI — GitHub Profile README
-  Repo: rustamaliabro131/rustamaliabro131  (profile README repo)
   ------------------------------------------------------------
-  Remaining placeholder:
-    YOUR_PORTFOLIO_LINK   ->  your portfolio URL
+  All asset paths below are repo-relative (/assets/..., /Resume/...)
+  so they keep working across repo renames.
   ============================================================
 -->
 
 <div align="center">
+
+  <!-- Profile Photo -->
+  <img src="/assets/profile.jpg" width="110" alt="Rustam Ali" />
+
+  <br /><br />
 
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=rustamaliabro131&label=Profile%20Views&color=0e75a7&style=for-the-badge" alt="Profile views" />
@@ -16,13 +20,13 @@
   <br /><br />
 
   <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/rustamaliabro131/rustamaliabro131/main/assets/banner.svg" width="100%" alt="Rustam Ali — AI Automation Engineer, Graphic Designer, Content Writer" />
+  <img src="/assets/banner.svg" width="100%" alt="Rustam Ali — AI Automation Engineer, Graphic Designer, Content Writer" />
 
   <br /><br />
 
   <!-- Action Links -->
-  <a href="https://raw.githubusercontent.com/rustamaliabro131/rustamaliabro131/main/Resume/AI-Assisted_Software_Engineer.pdf"><img src="https://img.shields.io/badge/Download_Resume-21262D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
+  <a href="/Resume/AI-Assisted_Software_Engineer.pdf"><img src="https://img.shields.io/badge/Download_Resume-21262D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download Resume" /></a>
+  <a href="https://www.behance.net/rustamali42"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="View Portfolio on Behance" /></a>
   <a href="https://www.linkedin.com/in/rustam-ali-abro-81a203321aiautomation"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="mailto:rustamali7037029@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rustam" /></a>
   <a href="https://www.fiverr.com/rustama51214?source=gig_page"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire on Fiverr" /></a>
@@ -153,7 +157,7 @@
 - **Intermediate in Computer Science (ICS)** · *Punjab College*
   - Core computer science fundamentals, programming logic and mathematics.
 - **Google AI Certifications** · *Coursera*
-  - Applied AI training covering core AI concepts and practical AI tooling.
+  - Applied AI training covering core AI concepts and practical AI tooling. ([View certificate](/Resume/Google%20AI%20Certifections.pdf))
 - **Kaggle 5-Day Vibe Coding Intensive** · *Kaggle*
   - Hands-on focus on AI-assisted SDLC, prompt engineering techniques and prompt injection security.
 - **Diploma in CIT & Graphic Design** · *Horizon Academy Institute*
@@ -171,6 +175,7 @@
   <p><sub>Available for AI automation, design and content work — remote friendly.</sub></p>
 
   <p>
+    <a href="https://www.behance.net/rustamali42"><img src="https://img.shields.io/badge/View_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="View portfolio on Behance" /></a>
     <a href="https://www.linkedin.com/in/rustam-ali-abro-81a203321aiautomation"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
     <a href="mailto:rustamali7037029@gmail.com"><img src="https://img.shields.io/badge/Discuss_a_Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss a project" /></a>
     <a href="https://www.fiverr.com/rustama51214?source=gig_page"><img src="https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Rustam on Fiverr" /></a>
