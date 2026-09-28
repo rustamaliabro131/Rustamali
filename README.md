@@ -9,8 +9,8 @@
 
 <div align="center">
 
-  <!-- Profile Photo -->
-  <img src="/assets/profile.jpg" width="110" alt="Rustam Ali" />
+  <!-- Profile Photo (pre-rendered circular PNG) -->
+  <img src="/assets/avatar.png" width="120" alt="Rustam Ali" />
 
   <br /><br />
 
